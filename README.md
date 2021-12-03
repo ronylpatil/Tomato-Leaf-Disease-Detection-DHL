@@ -15,3 +15,7 @@
 <b>Model Performace : </b>
 
 Here I have used fusion of best of both world's, Machine Learning &amp; Deep Learning. Image classification using XGBOOST and Random Forest by extracting features using VGG16 Pre-trained Network. 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
+</p>
