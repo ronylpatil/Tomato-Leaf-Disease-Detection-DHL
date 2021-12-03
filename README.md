@@ -20,9 +20,24 @@ In this project I am classifying 5 categories of tomato plant leaf disease(inclu
                
 <b>Dataset Source : https://www.kaggle.com/arjuntejaswi/plant-village</b>
 
-<b>Model Performace : </b>
+<b>Model Performace :</b>
+i. Random Forest Performance 
+<p align="center">
+  <img class="center" src ="/sample/random forest cm.png" alt="Drawing" style="width: 500px; height: 400px">
+</p>
 
+<p align="center">
+  <img class="center" src ="/sample/random forest cr.png" alt="Drawing" style="width: 500px; height: 230px">
+</p>
 
+ii. XGBOOST Performance 
+<p align="center">
+  <img class="center" src ="/sample/xgb cm.png" alt="Drawing" style="width: 500px; height: 400px">
+</p>
+
+<p align="center">
+  <img class="center" src ="/sample/xgb cr.png" alt="Drawing" style="width: 500px; height: 230px">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
