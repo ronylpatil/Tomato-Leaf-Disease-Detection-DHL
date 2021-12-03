@@ -8,13 +8,25 @@
 </p>
 
 <b>Description : </b>
-
+Here I have used fusion of best of both world's, Machine Learning & Deep Learning. Image classification using XGBOOST and Random Forest by extracting features using VGG16 Pre-trained Network. 
+In this project I am using Machine Learning as well as Deep Learning.
+               We can call it as Hybrid AI or Hybrid Learning. I call it "Deep Hybrid Learning",
+               because here we are using fusion of Machine Learning and Deep Learning. 
+               
+               Here in this project I am combining best of the both world's, one is traditional Machine Learning and Deep Learning to create a solution that
+               works amazing well specially when we have limited training dataset.
+               If we have lot's of data then deep learning works well as compare to traditional machine learning. But in case of very limited data
+               ten's of images other than thousands of images then traditional machine learning works great. Now here we will take best 
+               of both worlds meaning from deep learning world instead of doing deep learning lets only take convolutional filters and 
+               extract features using convolutional filters and then take that responce or features that go into random forest 
+               for classification. 
+               
 <b>Dataset Source : </b>
 
 
 <b>Model Performace : </b>
 
-Here I have used fusion of best of both world's, Machine Learning &amp; Deep Learning. Image classification using XGBOOST and Random Forest by extracting features using VGG16 Pre-trained Network. 
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
