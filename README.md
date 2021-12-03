@@ -27,7 +27,7 @@ i. Random Forest Performance
 </p>
 
 <p align="center">
-  <img class="center" src ="/sample/random forest cr.png" alt="Drawing" style="width: 500px; height: 230px">
+  <img class="center" src ="/sample/random forest cr.png" alt="Drawing" style="width: 500px; height: 210px">
 </p>
 
 ii. XGBOOST Performance 
@@ -36,7 +36,7 @@ ii. XGBOOST Performance
 </p>
 
 <p align="center">
-  <img class="center" src ="/sample/xgb cr.png" alt="Drawing" style="width: 500px; height: 230px">
+  <img class="center" src ="/sample/xgb cr.png" alt="Drawing" style="width: 500px; height: 210px">
 </p>
 
 <p align="center">
