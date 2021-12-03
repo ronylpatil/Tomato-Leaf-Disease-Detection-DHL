@@ -8,21 +8,17 @@
 </p>
 
 <b>Description : </b>
-Here I have used fusion of best of both world's, Machine Learning & Deep Learning. Image classification using XGBOOST and Random Forest by extracting features using VGG16 Pre-trained Network. 
-In this project I am using Machine Learning as well as Deep Learning.
-               We can call it as Hybrid AI or Hybrid Learning. I call it "Deep Hybrid Learning",
-               because here we are using fusion of Machine Learning and Deep Learning. 
+Here I am combining best of the both worlds, one is traditional Machine Learning and, another is Deep Learning to create a hybrid network which classifies Tomato Leaf Diseases.
+From Deep Learning I took VGG16 Pre-trained Network for extracting useful features and, from Machine Learning I tried out both XGBOOST and, Random Forest Ensembel Techniques to classify the images. We can call it as Hybrid AI or Hybrid Learning. I call it "Deep Hybrid Learning", because here we are using fusion of Machine Learning and Deep Learning to create Hybrid Model. 
                
-               Here in this project I am combining best of the both world's, one is traditional Machine Learning and Deep Learning to create a solution that
-               works amazing well specially when we have limited training dataset.
+Actually this hybrid model works amazing well specially when we have limited training dataset.
                If we have lot's of data then deep learning works well as compare to traditional machine learning. But in case of very limited data
-               ten's of images other than thousands of images then traditional machine learning works great. Now here we will take best 
-               of both worlds meaning from deep learning world instead of doing deep learning lets only take convolutional filters and 
-               extract features using convolutional filters and then take that responce or features that go into random forest 
-               for classification. 
-               
-<b>Dataset Source : </b>
+               ten's of images rather than thousands of images then traditional machine learning works great. Now here we have taken best 
+               of both worlds I mean from deep learning world instead of doing deep learning let's only extract features using VGG16 Pre-trained Network and then take that responce or features to train random forest and, xgboost for classification. 
 
+In this project I am classifying 5 categories of tomato plant leaf disease(including healthy leaves) and took total 2500 images(500 of each category) and, for testing I took 1000 images(200 of each category) and you will don't believe that Random Forest gave 83% of accuracy(without model tunning) and, XGBOOST gave 89% of accuracy(without model tunning) which is far better and, the hybrid model trained on 2500 images in just 7 minutes.   
+               
+<b>Dataset Source : https://www.kaggle.com/arjuntejaswi/plant-village</b>
 
 <b>Model Performace : </b>
 
