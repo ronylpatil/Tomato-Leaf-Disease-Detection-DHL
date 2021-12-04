@@ -20,6 +20,13 @@ In this project I am classifying 5 categories of tomato leaf disease(including h
                
 <b>Dataset Source : https://www.kaggle.com/arjuntejaswi/plant-village</b>
 
+<b>Dataset Description : </b> Dataset had 5 classes to classify.
+  1. Tomato Early Blight
+  2. Tomato Late Blight
+  3. Tomato Septorial Leaf Spot
+  4. Tomato Spider Mites(Two Spotted Spider Mites)
+  5. Tomato Healthy
+
 <b>Model Performace :</b>
 i. Random Forest Performance 
 <p align="center">
